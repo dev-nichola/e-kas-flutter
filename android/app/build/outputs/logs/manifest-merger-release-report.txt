@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hanif/.gradle/caches/transforms-3/0ab3fc43733165700dc312fb5d1be6e0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hanif/.gradle/caches/transforms-3/78b10d4d2353d694b75ebabe77034e0c/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hanif/.gradle/caches/transforms-3/609158c87c42a88170801ffb929967eb/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/hanif/.gradle/caches/transforms-3/da4300be0e3d25203304509188aa82cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanif/.gradle/caches/transforms-3/8fcd9fc11f071b8badc574dcf970b770/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hanif/.gradle/caches/transforms-3/dff7d62ba9c98a96a72c9024672b02bc/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hanif/.gradle/caches/transforms-3/1c37ba205319388d94231383707da3db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hanif/.gradle/caches/transforms-3/54e400d4d4cb1444eac25e9b997c4a95/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanif/.gradle/caches/transforms-3/9df7cbec891d8123d4ba46da30871c95/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanif/.gradle/caches/transforms-3/fe603753c2584fe59ab459dab52617fa/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanif/.gradle/caches/transforms-3/dceecdfc2b182fcd945c6e9d4067b096/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hanif/.gradle/caches/transforms-3/fe6b256b318b0e9d215a5ca802a05710/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/hanif/.gradle/caches/transforms-3/8c9390a3659666e3858e994a5c5680ba/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hanif/.gradle/caches/transforms-3/06d033dba8bff6011cffccf3a7905df3/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hanif/.gradle/caches/transforms-3/a2796db1fbac06b34f551f77db312d55/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hanif/.gradle/caches/transforms-3/65b6aaa5a32e169e3fffeb7b252e8b96/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hanif/.gradle/caches/transforms-3/e9db1d5a011391a96e590ef8f02653c0/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hanif/.gradle/caches/transforms-3/6294ce404437f326f296b42046721a7c/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/hanif/.gradle/caches/transforms-3/2696f4ad9f3c1bd1ce9fb6f012c5aa50/transformed/jetified-core-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hanif/.gradle/caches/transforms-3/5b2bef366adb3897806b0d6db8526d2b/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanif/.gradle/caches/transforms-3/a2cd0ba77e7b152f680c929b5c83c5ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanif/.gradle/caches/transforms-3/0d5e5881a77ec6c74af8693ddd914ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hanif/.gradle/caches/transforms-3/8e83a73a9f7a563ea93a3104872a211a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hanif/.gradle/caches/transforms-3/94a0854a8dd587a4abfb6fc4be3a8eab/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hanif/.gradle/caches/transforms-3/1339debc1fe4a7b5a1f88ea6db5c486b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hanif/.gradle/caches/transforms-3/8e83a73a9f7a563ea93a3104872a211a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hanif/.gradle/caches/transforms-3/8e83a73a9f7a563ea93a3104872a211a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:10:5-26
+	android:icon
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:12:5-39
+	android:enableOnBackInvokedCallback
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:13:5-47
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:11:5-51
+activity#com.example.your_app.MainActivity
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:15:9-30:20
+	android:launchMode
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:23:13-25:56
+	android:resource
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:25:17-54
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:24:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:33:9-35:32
+	android:value
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:35:13-30
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:34:13-44
+queries
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hanif/.gradle/caches/transforms-3/0ab3fc43733165700dc312fb5d1be6e0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hanif/.gradle/caches/transforms-3/0ab3fc43733165700dc312fb5d1be6e0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hanif/.gradle/caches/transforms-3/78b10d4d2353d694b75ebabe77034e0c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hanif/.gradle/caches/transforms-3/78b10d4d2353d694b75ebabe77034e0c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hanif/.gradle/caches/transforms-3/609158c87c42a88170801ffb929967eb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hanif/.gradle/caches/transforms-3/609158c87c42a88170801ffb929967eb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/hanif/.gradle/caches/transforms-3/da4300be0e3d25203304509188aa82cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/hanif/.gradle/caches/transforms-3/da4300be0e3d25203304509188aa82cd/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanif/.gradle/caches/transforms-3/8fcd9fc11f071b8badc574dcf970b770/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanif/.gradle/caches/transforms-3/8fcd9fc11f071b8badc574dcf970b770/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hanif/.gradle/caches/transforms-3/dff7d62ba9c98a96a72c9024672b02bc/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hanif/.gradle/caches/transforms-3/dff7d62ba9c98a96a72c9024672b02bc/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hanif/.gradle/caches/transforms-3/1c37ba205319388d94231383707da3db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hanif/.gradle/caches/transforms-3/1c37ba205319388d94231383707da3db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hanif/.gradle/caches/transforms-3/54e400d4d4cb1444eac25e9b997c4a95/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hanif/.gradle/caches/transforms-3/54e400d4d4cb1444eac25e9b997c4a95/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanif/.gradle/caches/transforms-3/9df7cbec891d8123d4ba46da30871c95/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanif/.gradle/caches/transforms-3/9df7cbec891d8123d4ba46da30871c95/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanif/.gradle/caches/transforms-3/fe603753c2584fe59ab459dab52617fa/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanif/.gradle/caches/transforms-3/fe603753c2584fe59ab459dab52617fa/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanif/.gradle/caches/transforms-3/dceecdfc2b182fcd945c6e9d4067b096/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanif/.gradle/caches/transforms-3/dceecdfc2b182fcd945c6e9d4067b096/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hanif/.gradle/caches/transforms-3/fe6b256b318b0e9d215a5ca802a05710/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hanif/.gradle/caches/transforms-3/fe6b256b318b0e9d215a5ca802a05710/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/hanif/.gradle/caches/transforms-3/8c9390a3659666e3858e994a5c5680ba/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/hanif/.gradle/caches/transforms-3/8c9390a3659666e3858e994a5c5680ba/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hanif/.gradle/caches/transforms-3/06d033dba8bff6011cffccf3a7905df3/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hanif/.gradle/caches/transforms-3/06d033dba8bff6011cffccf3a7905df3/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hanif/.gradle/caches/transforms-3/a2796db1fbac06b34f551f77db312d55/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hanif/.gradle/caches/transforms-3/a2796db1fbac06b34f551f77db312d55/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hanif/.gradle/caches/transforms-3/65b6aaa5a32e169e3fffeb7b252e8b96/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hanif/.gradle/caches/transforms-3/65b6aaa5a32e169e3fffeb7b252e8b96/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hanif/.gradle/caches/transforms-3/e9db1d5a011391a96e590ef8f02653c0/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hanif/.gradle/caches/transforms-3/e9db1d5a011391a96e590ef8f02653c0/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hanif/.gradle/caches/transforms-3/6294ce404437f326f296b42046721a7c/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hanif/.gradle/caches/transforms-3/6294ce404437f326f296b42046721a7c/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/hanif/.gradle/caches/transforms-3/2696f4ad9f3c1bd1ce9fb6f012c5aa50/transformed/jetified-core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/hanif/.gradle/caches/transforms-3/2696f4ad9f3c1bd1ce9fb6f012c5aa50/transformed/jetified-core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hanif/.gradle/caches/transforms-3/5b2bef366adb3897806b0d6db8526d2b/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hanif/.gradle/caches/transforms-3/5b2bef366adb3897806b0d6db8526d2b/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanif/.gradle/caches/transforms-3/a2cd0ba77e7b152f680c929b5c83c5ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanif/.gradle/caches/transforms-3/a2cd0ba77e7b152f680c929b5c83c5ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanif/.gradle/caches/transforms-3/0d5e5881a77ec6c74af8693ddd914ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanif/.gradle/caches/transforms-3/0d5e5881a77ec6c74af8693ddd914ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hanif/.gradle/caches/transforms-3/8e83a73a9f7a563ea93a3104872a211a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hanif/.gradle/caches/transforms-3/8e83a73a9f7a563ea93a3104872a211a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hanif/.gradle/caches/transforms-3/94a0854a8dd587a4abfb6fc4be3a8eab/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hanif/.gradle/caches/transforms-3/94a0854a8dd587a4abfb6fc4be3a8eab/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hanif/.gradle/caches/transforms-3/1339debc1fe4a7b5a1f88ea6db5c486b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hanif/.gradle/caches/transforms-3/1339debc1fe4a7b5a1f88ea6db5c486b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanif/projek/e-kas/e-kas-flutter/android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hanif/.gradle/caches/transforms-3/94d2755ff1b6667b29d2f105267ae004/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hanif/.gradle/caches/transforms-3/2f8b19de1b835bb369a5e2544f8f4611/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+permission#com.example.myapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/hanif/.gradle/caches/transforms-3/251fa86f27d0215b524128c926f6e63e/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hanif/.gradle/caches/transforms-3/f4a2c14f34d210a2ab683f77fde0e0b1/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hanif/.gradle/caches/transforms-3/2d7afbbe6e5b0130e56de602d090a583/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

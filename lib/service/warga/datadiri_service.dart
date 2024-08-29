@@ -1,0 +1,145 @@
+
+import 'dart:convert';
+
+import 'package:http/http.dart' as http;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+final String baseUrl = dotenv.env['API_URL'] ?? '';
+
+Future<String?> getAuthToken() async {
+  final prefs = await SharedPreferences.getInstance();
+  final token = prefs.getString('auth_token');
+  // Debug log
+  return token;
+}
+
+
+
+Future<Map<String, dynamic>?> getUserData() async {
+  final url = Uri.parse('$baseUrl/data-diri');
+  final token = await getAuthToken();
+
+  if (token == null) {
+    throw Exception('Harap login terlebih dahulu.');
+  }
+
+  final response = await http.get(
+    url,
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer $token',
+    },
+  );
+
+  if (response.statusCode == 200) {
+    try {
+      final data = jsonDecode(response.body);
+      return data;
+    } catch (e) {
+      throw Exception('Gagal memproses data: $e');
+    }
+  } else if (response.statusCode == 401) {
+    throw Exception('Token tidak valid atau telah kadaluarsa.');
+  } else {
+    throw Exception('Gagal mengambil data. Status code: ${response.statusCode}');
+  }
+}
+
+
+
+Future<void> updateUserData(Map<String, dynamic> updatedData) async {
+  final url = Uri.parse('$baseUrl/data-diri');
+  final token = await getAuthToken();
+
+  if (token == null) {
+    throw Exception('Harap login terlebih dahulu.');
+  }
+
+  final response = await http.put(
+    url,
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer $token',
+    },
+    body: jsonEncode(updatedData),
+  );
+
+  if (response.statusCode == 200) {
+    // Successful update
+  } else if (response.statusCode == 401) {
+    throw Exception('Token tidak valid atau telah kadaluarsa.');
+  } else {
+    throw Exception('Gagal memperbarui data. Status code: ${response.statusCode}. Response body: ${response.body}');
+  }
+}
+
+
+Future<List<Map<String, dynamic>>?> getRiwayat() async {
+  final url = Uri.parse('$baseUrl/riwayat');
+  final token = await getAuthToken();
+
+  if (token == null) {
+    throw Exception('Harap login terlebih dahulu.');
+  }
+
+  final response = await http.get(
+    url,
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer $token',
+    },
+  );
+
+  if (response.statusCode == 200) {
+    try {
+      final data = jsonDecode(response.body);
+      if (data is List) {
+        return List<Map<String, dynamic>>.from(data);
+      } else {
+        throw Exception('Format data tidak sesuai.');
+      }
+    } catch (e) {
+      throw Exception('Gagal memproses data: $e');
+    }
+  } else if (response.statusCode == 401) {
+    throw Exception('Token tidak valid atau telah kadaluarsa.');
+  } else {
+    throw Exception('Gagal mengambil data. Status code: ${response.statusCode}');
+  }
+}
+
+
+Future<Map<String, dynamic>?> detailRiwayat(String detailPembayaranId) async {
+  final url = Uri.parse('$baseUrl/riwayat/$detailPembayaranId');
+  final token = await getAuthToken();
+
+  if (token == null) {
+    throw Exception('Harap login terlebih dahulu.');
+  }
+
+  final response = await http.get(
+    url,
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer $token',
+    },
+  );
+
+  if (response.statusCode == 200) {
+    try {
+      final data = jsonDecode(response.body);
+      if (data is Map<String, dynamic>) {
+        return data;
+      } else {
+        throw Exception('Format data tidak sesuai.');
+      }
+    } catch (e) {
+      throw Exception('Gagal memproses data: $e');
+    }
+  } else if (response.statusCode == 401) {
+    throw Exception('Token tidak valid atau telah kadaluarsa.');
+  } else {
+    throw Exception('Gagal mengambil data. Status code: ${response.statusCode}');
+  }
+}
